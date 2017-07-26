@@ -11,3 +11,6 @@ _The current Timeframe aim:_ One easy per month, one medium per quarter, one har
 
 PongJS: https://github.com/Lowstahh/PongJS
 
+# Completed Projects
+
+_nothing to see here... yet_

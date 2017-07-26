@@ -1,6 +1,6 @@
 # ArcadeJS-Requests
 
-I have always loved Video Games. Since the cartridges for my first Gameboy to my ever-growing Steam library on my PC, it's part of who I am. But playing games was never quite enough for me. What originally drew me into development was an aspiration to create my own. Designing was never a problem, development always was. This led to my passion being shelved for a while, due to a lack of requisite knowledge, time and self-belief. But no more!
+I have always loved video games. Since the cartridges for my first Gameboy to my ever-growing Steam library on my PC, it's part of who I am. But playing games was never quite enough for me. What originally drew me into development was an aspiration to create my own. Designing was never a problem, development always was. This led to my passion being shelved for a while, due to a lack of requisite knowledge, time and self-belief. But no more!
 
 I'm starting from the beginning, trying to understand the history of game development, while simultaneously developing my knowledge and skillset by creating classic games suggested & voted for by you!
 

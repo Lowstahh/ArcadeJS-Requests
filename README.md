@@ -6,8 +6,9 @@ This led to my passion being shelved for a while, due to a lack of requisite kno
 
 I'm starting from the beginning, trying to understand the history of game development, while simultaneously developing my knowledge and skillset by creating classic games suggested & voted for by you!
 
+These will hopefully be presented as show-n-tells if there's appetite :)
+
 _The Tool(s) of choice:_ Javascript, HTML5, CSS.  
-_The current Timeframe aim:_ One easy per month, one medium per quarter, one hard per 6 months.
 
 # Current Active Projects
 

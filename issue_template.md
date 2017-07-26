@@ -1,7 +1,9 @@
 # ARCADEJS Request Form
 ### Name
-_e.g. Will Thurlow_
+Example: Will Thurlow
 ### Game Name
-_e.g. Snake_
+Example: Snake
 ### Description
-_Snake - the popular block eating game_
+Example: The Popular block-munching game on mobile
+### Estimated Complexity (Easy, Medium, Hard)
+Example: Easy
